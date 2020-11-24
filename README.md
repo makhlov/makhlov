@@ -1,4 +1,6 @@
-<h3>Hey there <img src="greeting/wave.gif" alt="hand" width="30px"/>,<img align="right" src="https://komarev.com/ghpvc/?username=makhlov&color=green"/></h3> 
+<img src="header/dino.gif" alt="dino"/>
+
+<h3>Hey there <img src="greeting/wave.gif" alt="hand" width="30px"/>,</h3> 
 <p>My friends call me Egor, but you may call me to work in your company.</p>
 <p>I am a beginner Java Backend developer. Graduated with honors in Software Engineering in 2020 (Bachelor's degree). I like studying and learning new things, in my free time I take online courses, read technical and fiction literature.</p>
 
@@ -42,12 +44,12 @@
     </ul>
 </details>
 
-<h5 align='center'>💬 Contact with me </h5>
+<h5>💬 Contact with me </h5>
 <p>Have a question or just want to say “hi!”? My contacts are right below (:</p>
 
 <p align='center'>
     <a href="https://t.me/makhlovegor_work"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png"></a>&nbsp;&nbsp;
-    <a href="makhlov.egor.work@gmail.com"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1280px-Gmail_Icon.svg.png"></a>&nbsp;&nbsp;
+    <a href="mailto: makhlov.egor.work@gmail.com"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1280px-Gmail_Icon.svg.png"></a>
 </p>
 
 <p align='center'>
