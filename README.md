@@ -1,5 +1,3 @@
-<img src="header/dino.gif" alt="hand"/>
-
 <h3>Hey there <img src="greeting/wave.gif" alt="hand" width="30px"/>,<img align="right" src="https://komarev.com/ghpvc/?username=makhlov&color=green"/></h3> 
 <p>My friends call me Egor, but you may call me to work in your company.</p>
 <p>I am a beginner Java Backend developer. Graduated with honors in Software Engineering in 2020 (Bachelor's degree). I like studying and learning new things, in my free time I take online courses, read technical and fiction literature.</p>
@@ -14,10 +12,13 @@
     <code><a href="https://git-scm.com/" target="_blank"><img src="tech-stack-icon/Git.png" alt="Git" width="41" height="41" /></a></code>&nbsp;
 </p>
 
-<img src="https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=black&color=white" alt="linux"/>
-<img src="https://img.shields.io/badge/JIRA-informational?style=flat&logo=jira&logoColor=black&color=white" alt="jira"/>
-<img src="https://img.shields.io/badge/Confluence-informational?style=flat&logo=Confluence&logoColor=black&color=white" alt="confluence"/>
-<img src="https://img.shields.io/badge/IDEA-informational?style=flat&logo=intellij-idea&logoColor=black&color=white" alt="idea"/>
+<p>
+    <img src="https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=black&color=white" alt="linux"/>
+    <img src="https://img.shields.io/badge/JIRA-informational?style=flat&logo=jira&logoColor=black&color=white" alt="jira"/>
+    <img src="https://img.shields.io/badge/Confluence-informational?style=flat&logo=Confluence&logoColor=black&color=white" alt="confluence"/>
+    <img src="https://img.shields.io/badge/IDEA-informational?style=flat&logo=intellij-idea&logoColor=black&color=white" alt="idea"/>
+</p>
+
 
 <h5>🏔 Things I am working on:</h5>
 <details>
