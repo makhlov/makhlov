@@ -15,10 +15,10 @@
 </p>
 
 <p>
-    <img src="https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=black&color=white" alt="linux"/>
-    <img src="https://img.shields.io/badge/JIRA-informational?style=flat&logo=jira&logoColor=black&color=white" alt="jira"/>
-    <img src="https://img.shields.io/badge/Confluence-informational?style=flat&logo=Confluence&logoColor=black&color=white" alt="confluence"/>
-    <img src="https://img.shields.io/badge/IDEA-informational?style=flat&logo=intellij-idea&logoColor=black&color=white" alt="idea"/>
+    <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=black&color=white" alt="linux"/></a>
+    <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/JIRA-informational?style=flat&logo=jira&logoColor=black&color=white" alt="jira"/></a>
+    <a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://img.shields.io/badge/Confluence-informational?style=flat&logo=Confluence&logoColor=black&color=white" alt="confluence"/></a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IDEA-informational?style=flat&logo=intellij-idea&logoColor=black&color=white" alt="idea"/></a>
 </p>
 
 <h4>📋 More details:</h4>
