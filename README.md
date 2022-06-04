@@ -8,7 +8,7 @@
         <img src="header/dino.gif" alt="dino"/>
     </div>
     <div class="main">
-        <h3>Hey there <img src="main/greeting/wave.gif" alt="hand" width="30px"/>,</h3>
+        <h3>Hey there,</h3>
         <p>My friends call me Egor, but you may call me to work for your company.</p>
         <p>
             I'm a software engineer with a passion for Java. Graduated with honors in Software Engineering and continue to improve skills in back-end development and related things.
